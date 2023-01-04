@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600&display=swap');
+
+.heading1{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 600;
+    /* padding-top: 30px; */
+    word-spacing: 1px;
+    
+}
+.workspace{
+    /* background-image: url("https://cdn4.vectorstock.com/i/1000x1000/20/98/programmer-workspace-interior-icon-flat-vector-31862098.jpg"); */
+    margin-top: 100px;
+    height: 450px;
+    width: 100%;
+    /* background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;*/
+    box-sizing: border-box; 
+}
+#Home{
+    background-color: rgba(0,0,0,0.033);
+    padding-top: 150px;
+    font-family: 'Raleway', sans-serif;
+}
+.wrkimg{
+    height: 100%;
+    width: 100%;
+}

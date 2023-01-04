@@ -1,0 +1,24 @@
+.ficon{
+    background-image: url("./facebook.png");
+    height: 30px;
+    padding: 0px;
+    background-size: cover;
+    width:30px;
+    margin-left: 20px;
+}
+.ticon{
+    background-image: url("./twitter.png");
+    height: 30px;
+    padding: 0px;
+    background-size: cover;
+    width:30px;
+    margin-left: 20px;
+}
+.iicon{
+    background-image: url("./instagram.png");
+    height: 30px;
+    padding: 0px;
+    background-size: cover;
+    width:30px;
+    margin-left: 20px;
+}

@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&display=swap');
+
+#Contact{
+    font-family: 'Raleway', sans-serif;
+    margin-top: 50px;
+}
+h2{
+    font-weight: 700;
+    margin: 30px;
+}
+
+.favdiv{
+    display: grid;
+    grid-template-columns: 55% 45%;
+}
+.favdiv2{
+    margin-top: 20px;
+}
+
+.contactdiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: left;
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+
+}
+.ctxt{
+    color: rgba(128, 125, 125, 0.788);
+}
+.itext{
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid rgb(179, 177, 177);
+}
+.text{
+    margin: 10px 0 10px 0;
+}
+.tarea{
+    height: 150px;
+    border-radius: 5px;
+    border: 2px solid rgb(179, 177, 177);
+}
+.sbtn{
+    height: 50px;
+    border: none;
+    background-color: navy;
+    color: white;
+    width: 150px;
+    margin: 10px 0 10px 0;
+    border-radius: 5px;
+    font-size: 24px;
+}
